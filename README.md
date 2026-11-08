@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://srini-anirudh.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-srini--anirudh.github.io-1f6feb?style=for-the-badge"/></a>
-  <a href="https://srini-anirudh.github.io/blogs/"><img alt="The Backward Pass" src="https://img.shields.io/badge/Blog-The%20Backward%20Pass-d1242f?style=for-the-badge"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=bhm5TBQAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anirudh-srini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Anirud_Srini"><img alt="X" src="https://img.shields.io/badge/@Anirud__Srini-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://srini-anirudh.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://srini-anirudh.github.io/blogs/"><img alt="The Backward Pass" src="https://img.shields.io/badge/The%20Backward%20Pass-d1242f?style=flat-square&logo=rss&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=bhm5TBQAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anirudh-srini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Anirud_Srini"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
 
 I'm a senior research engineer at BharatGen, where I lead the vision-language models team. My work covers answers that point to evidence on the page, the infrastructure for training and serving VLMs, and sovereign foundation models for India.
