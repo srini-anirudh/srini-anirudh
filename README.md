@@ -66,7 +66,7 @@ flowchart LR
 *The whole stack that builds a sovereign vision foundation model, from storage to evaluation.*
 
 <p align="center">
-  <a href="https://srini-anirudh.github.io/research.html#vlm-infrastructure"><img src="assets/patram-stack.png" alt="The Patram stack, read from the bottom up: Storage (Patram-FS, Patram-DB); Raw data collection (Patram-Scraper, synthetic docs) and Annotation and visualisation (DarshinAI); Training data generation (Patram-Ingest); Training infrastructure (Patram-Core); Models (Patram suite); Evaluation (PatramBench, Patram-Eval)" width="760"/></a><br/>
+  <a href="https://srini-anirudh.github.io/research.html#vlm-infrastructure"><img src="assets/patram-stack.png" alt="The Patram stack, read from the bottom up: Storage (Patram-FS, Patram-DB); Raw data collection (Patram-Scraper, Patram-Syn) and Annotation and visualisation (DarshinAI); Training data generation (Patram-Ingest); Training infrastructure (Patram-Core); Models (Patram suite); Serving infrastructure (Patram-Serve); Evaluation (PatramBench, Patram-Eval)" width="760"/></a><br/>
   <sub>The Patram stack, read from the bottom up.</sub>
 </p>
 
