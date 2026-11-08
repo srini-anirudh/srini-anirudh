@@ -37,7 +37,7 @@ The Backward Pass is my blog series: 70+ articles with interactive figures, cite
 
 I work on three connected problems. Each links to its page, its papers and its write-ups.
 
-### 1. [Grounded document intelligence](https://srini-anirudh.github.io/research.html#grounded-document-intelligence)
+### 1. [Grounded document intelligence](https://srini-anirudh.github.io/research/#grounded-document-intelligence)
 
 *Turn pages into text without losing information, and ground every answer in the page with masks.*
 
@@ -61,18 +61,18 @@ flowchart LR
   </tr>
 </table>
 
-### 2. [VLM infrastructure](https://srini-anirudh.github.io/research.html#vlm-infrastructure)
+### 2. [VLM infrastructure](https://srini-anirudh.github.io/research/#vlm-infrastructure)
 
 *The whole stack that builds a sovereign vision foundation model, from storage to evaluation.*
 
 <p align="center">
-  <a href="https://srini-anirudh.github.io/research.html#vlm-infrastructure"><img src="assets/patram-stack.png" alt="The Patram stack, read from the bottom up: Storage (Patram-FS, Patram-DB); Raw data collection (Patram-Scraper, Patram-Syn) and Annotation and visualisation (DarshinAI); Training data generation (Patram-Ingest); Training infrastructure (Patram-Core); Models (Patram suite); Serving infrastructure (Patram-Serve); Evaluation (PatramBench, Patram-Eval)" width="760"/></a><br/>
+  <a href="https://srini-anirudh.github.io/research/#vlm-infrastructure"><img src="assets/patram-stack.png" alt="The Patram stack, read from the bottom up: Storage (Patram-FS, Patram-DB); Raw data collection (Patram-Scraper, Patram-Syn) and Annotation and visualisation (DarshinAI); Training data generation (Patram-Ingest); Training infrastructure (Patram-Core); Models (Patram suite); Serving infrastructure (Patram-Serve); Evaluation (PatramBench, Patram-Eval)" width="760"/></a><br/>
   <sub>The Patram stack, read from the bottom up.</sub>
 </p>
 
 **Patram-Ingest** wraps vLLM in durable execution, so data-generation runs that last weeks keep GPUs busy and survive node failures. Talks: [guest lecture at IIIT Hyderabad](https://srini-anirudh.github.io/talks/programming-ai-accelerators/) · [vLLM Meetup Mumbai 2026](https://srini-anirudh.github.io/talks/patram-ingest-slides/)
 
-### 3. [Sovereign foundation models](https://srini-anirudh.github.io/research.html#sovereign-foundation-models)
+### 3. [Sovereign foundation models](https://srini-anirudh.github.io/research/#sovereign-foundation-models)
 
 *The Patram series: India's document VLM, and the benchmark that measures it.*
 
