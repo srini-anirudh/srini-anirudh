@@ -20,7 +20,9 @@ I write long-form explainers on how modern AI works, and each one comes with cod
 
 ## 📖 The Backward Pass
 
-**The Backward Pass is my blog series.** It explains how modern AI models are built, trained and scaled, from first principles. 70+ articles, interactive figures, cited sources, and a runnable lab for each theory post.
+**First-principles, illustrated deep dives into how modern AI models are built, trained, and scaled.**
+
+The Backward Pass is my blog series: 70+ articles with interactive figures, cited sources, and a runnable lab for each theory post.
 
 | | | |
 |:--:|:--:|:--:|
