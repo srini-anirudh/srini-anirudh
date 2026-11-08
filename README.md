@@ -1,8 +1,7 @@
-<h1 align="center">Anirudh Srinivasan</h1>
+<h1 align="center">Hi, I'm Anirudh 👋</h1>
 
 <p align="center">
-  <b>Senior Research Engineer · Vision-Language Models Team Lead at <a href="https://bharatgen.com/">BharatGen</a></b><br/>
-  Teaching models to read documents, and to show where on the page the answer came from.
+  <b>Senior Research Engineer · Vision-Language Models Team Lead at <a href="https://bharatgen.com/">BharatGen</a></b>
 </p>
 
 <p align="center">
@@ -12,6 +11,10 @@
   <a href="https://www.linkedin.com/in/anirudh-srini/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/Anirud_Srini"><img alt="X" src="https://img.shields.io/badge/@Anirud__Srini-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
+
+I'm a senior research engineer at BharatGen, where I lead the vision-language models team. My work covers answers that point to evidence on the page, the infrastructure for training and serving VLMs, and sovereign foundation models for India.
+
+I write long-form explainers on how modern AI works, and each one comes with code you can run.
 
 ---
 
